@@ -1,0 +1,28 @@
+# Trust Layer
+
+## Purpose
+
+This section distinguishes operational trust from adjacent but non-identical concepts such as governance, safety, compliance, reliability, and observability.
+
+## Working argument
+
+Trust is not a generic label. In operational environments, trust is earned through repeated credible behavior under defined constraints.
+
+A system becomes trust-bearing when users can rely on it without over-trusting it, constantly compensating for it, or losing clarity about who remains accountable.
+
+## Working definition
+
+Bounded operational trust is the degree to which a system can be relied on within a defined operating scope to surface, qualify, or support action credibly, without generating unmanageable noise, hidden logic, or ambiguous responsibility.
+
+## Distinctions to preserve
+
+- Observability provides visibility.
+- Governance defines rules and accountability structures.
+- Safety addresses harm prevention and boundary conditions.
+- Compliance addresses adherence to standards or requirements.
+- Reliability addresses consistent technical functioning.
+- Trust concerns whether the system can be used credibly in practice.
+
+## Drafting notes
+
+This section needs operational examples, especially around false positives, false reassurance, escalation fatigue, and signal credibility degradation.
