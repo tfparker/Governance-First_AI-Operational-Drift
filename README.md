@@ -1,5 +1,7 @@
 # Operational Drift, Signal Credibility, and Bounded AI Governance
 
+Copyright © 2026 Tripp Parker
+
 This repository is a governance-first writing and research project on enterprise AI control layers, operational drift, signal credibility, and bounded interpretation systems.
 
 The central premise is that durable enterprise AI value may depend less on broad automation claims and more on whether systems can support credible interpretation under constraint.
