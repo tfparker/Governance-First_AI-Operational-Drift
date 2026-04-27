@@ -51,6 +51,21 @@ Bounded operational trust is the degree to which a system can be relied on withi
 
 Governed interpretation is the disciplined qualification of signals under defined constraints, thresholds, review expectations, and accountability boundaries.
 
+## Relationship to Applied Prototypes
+
+This repository is the thesis and framework layer for related applied prototype work.
+
+It is conceptually adjacent to projects focused on deterministic classification, signal qualification, finance data-quality controls, reporting readiness, and operational trust under degraded conditions.
+
+Supporting prototype examples may include:
+
+- Mission Integrity System (MIS): deterministic classification of operational trustworthiness under degraded simulated conditions
+- Finance Data Quality Rule Engine: rule-based finance data-quality validation and exception review
+- Signal Frontier: reporting-readiness and control exception logic
+- Enterprise SDLC Change Governance Model: governance controls for scoped system change and release discipline
+
+These projects are not presented as production deployments. They are portfolio artifacts and applied examples for exploring how governance-first concepts can be translated into reviewable structures.
+
 ## Repository structure
 
 ```text
